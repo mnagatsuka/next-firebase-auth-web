@@ -1,5 +1,6 @@
 # next-firebase-auth-web
 
+```
 .
 ├── docs/
 │   ├── api/
@@ -67,7 +68,7 @@
 ├── docker-compose.yml
 ├── pakage.json
 └── README.md # Project overview
-
+```
 
 ## Applicable Versions
 
